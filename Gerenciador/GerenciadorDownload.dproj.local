@@ -2,19 +2,19 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2022/03/30 19:52:36.000.415,=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/03/30 20:20:01.000.849,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\iGerenciador.pas</Transaction>
-    <Transaction>2022/03/30 20:20:01.000.849,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\iGerenciador.dfm</Transaction>
+    <Transaction>2022/03/30 20:20:01.000.849,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\iGerenciador.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 20:20:01.000.849,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\iGerenciador.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
     <Transaction>2022/03/30 20:20:15.000.356,=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/03/30 20:20:39.000.287,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\blGerenciador.pas</Transaction>
-    <Transaction>2022/03/30 21:26:15.000.401,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\GerenciadorDownload.dproj</Transaction>
+    <Transaction>2022/03/30 20:20:39.000.287,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\blGerenciador.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 21:26:15.000.401,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\GerenciadorDownload.dproj=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2022/03/31 20:09:37.000.297,=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/03/31 20:54:08.000.228,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dbGerenciador.dfm</Transaction>
-    <Transaction>2022/03/31 20:54:08.000.228,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dbGerenciador.pas</Transaction>
+    <Transaction>2022/03/31 20:54:08.000.228,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dbGerenciador.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/31 20:54:08.000.228,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dbGerenciador.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/03/31 21:02:27.000.420,=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dmdGerenciador.pas</Transaction>
-    <Transaction>2022/03/31 21:02:38.000.338,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Gerenciador.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\iGerenciador.dfm</Transaction>
-    <Transaction>2022/03/31 21:02:38.000.338,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Gerenciador.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\iGerenciador.pas</Transaction>
+    <Transaction>2022/03/31 21:02:38.000.338,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\iGerenciador.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Gerenciador.pas</Transaction>
+    <Transaction>2022/03/31 21:02:38.000.338,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\iGerenciador.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Gerenciador.dfm</Transaction>
     <Transaction>2022/04/02 17:35:05.000.437,=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/04/02 17:39:57.000.320,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dlgHistorico.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/04/02 17:39:57.000.320,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dlgHistorico.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/02 17:39:57.000.320,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dlgHistorico.dfm</Transaction>
+    <Transaction>2022/04/02 17:39:57.000.320,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\dlgHistorico.pas</Transaction>
   </Transactions>
 </BorlandProject>
